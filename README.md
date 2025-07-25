@@ -11,6 +11,7 @@ This is a wireless remote-controlled tank-style robot built using:
 ✅ Curved turning (e.g. FR, BL)  
 ✅ Clean serial logging  
 ✅ Debounced input handling
+✅ Joy-Stick speed control
 
 ## Code Structure
 
