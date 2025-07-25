@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-#include <ZumoMotors.h>  // Library to control the motors 
+#include <ZumoMotors.h>  // Library to control the motors
  
 SoftwareSerial XBee(2, 3); // RX = 2, TX = 3, recieving and transmitting pins 
 ZumoMotors motors; 
