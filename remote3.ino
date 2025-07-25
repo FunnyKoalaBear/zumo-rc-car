@@ -1,5 +1,7 @@
+//Version 3 code for remote with speed control logic with the joystick
+
 #include <SoftwareSerial.h>
- 
+
 // Initialize SoftwareSerial on pins 2 (RX) and 3 (TX)
 SoftwareSerial XBee(2, 3); // RX = 2, TX = 3
  
