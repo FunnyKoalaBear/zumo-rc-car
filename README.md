@@ -1,9 +1,9 @@
 # Arduino-Based Remote-Control Car with Curve Turning
 
 This is a wireless remote-controlled tank-style robot built using:
-- 2 Arduino Unos  
+- 2 Arduino Unos
+- DFRobot Input Shield V2
 - Zumo robot car chassis (with tracked wheels)  
-- 4-button digital remote (Forward, Back, Left, Right)  
 - XBee Series 1 modules for wireless communication  
 
 ## Features
