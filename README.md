@@ -59,7 +59,8 @@ This is a wireless remote-controlled tank-style robot built using:
 ---
 
 ## Future Work
-- Add manual speed control fallback using a potentiometer  
 - Integrate ultrasonic sensors for obstacle avoidance  
-- Display control status and inputs on an OLED screen  
+- Display control status and inputs on an OLED screen
+- Develop a Wall-E shell for the car chasis
+
 
