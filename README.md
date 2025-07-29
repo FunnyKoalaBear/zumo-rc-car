@@ -1,4 +1,4 @@
-# Arduino-Based Remote-Control Car with Curve Turning
+# Arduino-Based Remote-Control Car 
 
 ![Alt text](ZumoWithoutShell.jpg)
 
