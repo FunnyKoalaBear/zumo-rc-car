@@ -1,5 +1,8 @@
 # Arduino-Based Remote-Control Car with Curve Turning
 
+![Alt text](ZumoWithoutShell.jpg)
+
+
 This is a wireless remote-controlled tank-style robot built using:
 - 2 Arduino Unos
 - DFRobot Input Shield V2
